@@ -13,12 +13,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue.svg">
 </p>
 
-<p align="center">
-  <sub>
-    © 2025 <a href="https://orcid.org/0000-0002-1604-381X">Matheus Santos</a> — SPDX-License-Identifier: MIT
-  </sub>
-</p>
-
 <hr>
 
 <h2>📚 Table of Contents</h2>
